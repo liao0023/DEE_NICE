@@ -14,9 +14,9 @@ Matthew Brady
 
   
 ## Computer Information
-Magic Number: 57 
-Remote Desktop Protocol: ET_R1:33357 
-Username: Administrator  
+* Magic Number: 57 
+* Remote Desktop Protocol: ET_R1:33357 
+* Username: Administrator  
  
 
 ## Purpose: 
