@@ -1,4 +1,4 @@
-# <center>CST8248 - Team DEE NICE** </center>
+# <center>CST8248 - Team DEE NICE </center>
 
 ## Group Members 
 
